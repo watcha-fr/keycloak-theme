@@ -1,6 +1,7 @@
 .login-pf body {
-    background: url("../img/keycloak-bg.png") no-repeat center center fixed;
-    background-size: cover;
+    background-color: whitesmoke;
+    background: url("../img/watcha-bg.png") no-repeat left top fixed;
+    background-size: 30%;
     height: 100%;
 }
 
