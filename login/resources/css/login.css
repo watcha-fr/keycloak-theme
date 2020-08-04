@@ -1,7 +1,7 @@
 .login-pf body {
-    background-color: whitesmoke;
     background: url("../img/watcha-bg.png") no-repeat left top fixed;
     background-size: 30%;
+    background-color: lightgrey;
     height: 100%;
 }
 
