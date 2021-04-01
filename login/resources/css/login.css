@@ -1,7 +1,6 @@
 .login-pf body {
-    background: url("../img/watcha-bg.png") no-repeat left top fixed;
-    background-size: 30%;
-    background-color: lightgrey;
+    background: url("../img/lyon-bg.webp");
+    background-size: cover;
     height: 100%;
 }
 
