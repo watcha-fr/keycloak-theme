@@ -100,6 +100,8 @@ div.kc-logo-text span {
 #kc-header {
     overflow: visible;
     white-space: nowrap;
+    visibility: hidden;
+    margin-bottom: 10vh;
 }
 
 #kc-header-wrapper {
