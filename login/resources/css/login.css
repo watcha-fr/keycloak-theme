@@ -134,6 +134,11 @@ div.kc-logo-text span {
     overflow-y: hidden;
 } */
 
+#kc-form {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
 #kc-info {
     padding-bottom: 200px;
     margin-bottom: -200px;
@@ -227,6 +232,21 @@ ul#kc-totp-supported-apps {
 }
 
 /* Social */
+
+#social-villeurbanne {
+    color: white;
+    font-weight: bold;
+    background-color: #28a745;
+}
+
+#kc-social-providers {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#kc-social-providers h4 {
+    display: none;
+}
 
 #kc-social-providers ul {
     padding: 0;
